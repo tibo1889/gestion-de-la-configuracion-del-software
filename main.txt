@@ -1,3 +1,4 @@
 Versión inicial del proyecto.
-Esta es la primera línea del archivo.
+Esta línea fue MODIFICADA para el feature 1.
+Agregando una nueva funcionalidad
 
