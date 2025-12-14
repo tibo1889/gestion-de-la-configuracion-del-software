@@ -1,0 +1,3 @@
+Versión inicial del proyecto.
+Esta es la primera línea del archivo.
+
