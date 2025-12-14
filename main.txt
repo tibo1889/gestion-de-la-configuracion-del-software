@@ -1,5 +1,6 @@
 Versión inicial del proyecto.
-Esta línea fue MODIFICADA para el feature 1.
+<<< ESTA LINEA FUE MODIFICADA POR CONFLICTO A >>>
+... (resto del archivo)
 Agregando una nueva funcionalidad
 Esta es la primera línea del archivo.
 Otra linea para Feature 2.
